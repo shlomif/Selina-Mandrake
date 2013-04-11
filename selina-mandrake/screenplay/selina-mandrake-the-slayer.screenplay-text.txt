@@ -154,9 +154,10 @@ Selina’s internal dialogue: OK, let’s see what there is to eat.
 
 <s id="meet-the-guide" title="Meet the Guide">
 
-[Selina is back at school, and is walking on a corridor, smiling. She opens a
-door and the corridor is empty except for “The Guide”, an attractive Goth-style
-man and is standing there watching her with a grave facial expression.]
+[Selina is back at school, and is walking in a corridor, smiling. She opens a
+door and the corridor is empty except for “The Guide”, an attractive
+Goth-style man, who is standing there watching her with a grave facial
+expression.]
 
 [Selina looks at him, smiles and walks towards him. As she passes him he says
 in a dramatic voice:]
