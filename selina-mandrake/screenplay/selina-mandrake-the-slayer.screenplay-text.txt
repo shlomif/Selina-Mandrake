@@ -918,7 +918,7 @@ of <b>The Amber</b>, you know, the mystical centre of the universe?
 
 Mephiqoleth: THE VERY EXACT POSITION.
 
-Selina: not off by about a 100 kilometres.
+Selina: not off by about a 100 kilometres?
 
 Mephiqoleth: NOT EVEN A QUARK’S DISPLACEMENT.
 
@@ -944,6 +944,63 @@ hat and the shirt to fall into the cupboard.]
 Selina: hey, my name is Selina… oh.
 
 </s>
+
+</s>
+
+<s id="is-moshes-ben-amram-the-jewish-prophet" title="Is Mosheh Ben-Amram the Jewish Prophet?">
+
+[Selina is sitting next to her computer at home with Firefox browsing
+<a href="http://he.wikipedia.org/">the Hebrew wikipedia</a>. She keep
+highlighting words and hovering on them to find translations using a Firefox
+extension.
+
+There is a signal, and the Pidgin icon in the status bar starts blinking.
+Selina clicks it.
+
+]
+
+Mosheh Ben-Amram: [on IM] Hello, Selina! How are you today?
+
+Selina: I’m fine. Trying to contribute to the Hebrew wikipedia.
+These <a href="https://en.wikipedia.org/wiki/Affix">Affixes</a> are driving
+me crazy?
+
+Mosheh Ben-Amram: Heh, עברית קשה שפה, but there are worse.
+
+Mosheh Ben-Amram: האם את מדברת עברית? [= “Do you speak Hebrew?”]
+
+Selina: Qtsath, or as new speakers will say Qetsath. Heh.
+
+Mosheh Ben-Amram: Yes, one of the first words you have to learn to say,
+and it’s already a Shibboleth.
+
+Selina: Emeth. [= "True."]
+
++++: BTW, are you actually Mosheh Ben-Amram (= Moses) the Hebrew prophet?
+
+Mosheh Ben-Amram: I won’t deny it.
+
+Selina: Hah!
+
+Mosheh Ben-Amram: There are quite a few other people called “Mosheh Ben-Amram”
+in the Israeli phone directory.
+
+Selina: Yes, I can imagine that.
+
++++: Actually, judging by recent happenings, learning Hebrew may be the least
+of my problems.
+
+Mosheh Ben-Amram: Anything you’d like to talk about?
+
+Selina: No, I don’t expect you to believe me, anyway. Any more than the
+amount that I’ll believe you if you told me you were actually the Jewish
+prophet.
+
+Mosheh Ben-Amram: Yes, well, I have some business to tend to. Good luck with
+the Hebrew Wikipedia. סעי לשלום - המפתחות בפנים! [= “Drive safely, the keys
+are inside.”]
+
+Selina: Thanks, and let me figure out what you just wrote, heh.
 
 </s>
 
