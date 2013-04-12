@@ -1600,7 +1600,7 @@ if necessary.
 Louis XIII: The plan is: go to your house and take the belongings you
 care about; take a fast carriage to Calais and cross the channel; once in
 England, find some people you know to help you find a body similar to Lord
-Buckingham, find someone who will take the blame for it (your King will make
+Buckingham, find someone who will take the blame for it (your king will make
 sure nothing bad happens to him), slay Lord Buckingham, and take a carriage
 with him to Plymouth where you will board a ship to the British colonies
 of America, and both start a new life. Is that clear?
@@ -1624,7 +1624,7 @@ Lord Buckingham: I believe you. What is it that you desire?
 [Milady Kate enters, followed by Athos, d’Artagnan and Lord Canterson who
 are dragging a body.]
 
-Kate: Greetings Lord Buckingham - we shall travel together to Plymouth,
+Milady Kate: Greetings Lord Buckingham - we shall travel together to Plymouth,
 in order to catch a ship to the New World, where we will be a couple at least
 until our arrival. Consider yourself slain and reborn.
 
