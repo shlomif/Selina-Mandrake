@@ -1047,7 +1047,7 @@ Selina: You seem in a good mood, which is a good thing. So how can I serve?
 
 The crowd: Hail the Slayer! We want to be slain by you.
 
-Selina: But why? You should be proud of your vampire heritage. Vampire rule.
+Selina: But why? You should be proud of your vampire heritage. Vampires rule.
 
 [The crowd cheers.]
 
@@ -1064,7 +1064,7 @@ Selina: Go claim your rightful place in the universe.
 [The crowd starts whistling.]
 
 Selina: So now it’s your turn - start thinking for yourself, take
-some initiative and be a good living undead instead of slain ones.
+some initiative, and be a good living undead instead of slain ones.
 
 The crowd: Yeah, yeah, sounds good.
 
@@ -1142,11 +1142,11 @@ Selina: I presume you are…
 
 The Master: The Master. This is right. The vampire with the oldest soul.
 
-Selina: And I'm supposed to slay you?
+Selina: And I’m supposed to slay you?
 
 The Master: That is correct.
 
-Selina: Well, even though I think you demon lot are complete freakshows, you
+Selina: Well, even though I think you demons’ lot are complete freakshows, you
 seem amusing and interesting, so I have no intention of slaying you as long
 as you remain harmless to me physically.
 
@@ -1172,7 +1172,7 @@ nobility. I want to hear all about it!
 
 The Master: SILENCE, SELINA! YOU HAVE REVEALED MY TRUE IDENTITY AND NOW I MUST
 PERISH, FOR NO ONE HAS DONE THAT UNTIL NOW. THE PROPHECIES OF THE CODEX HAVE
-COME TRUE - I HAVE BEEN SLAIN BY THE SLAYER. AWWWWWWWWWWWW
+COME TRUE - I HAVE BEEN SLAIN BY THE SLAYER. AWWWWWWWWWWWW!
 
 [His soul leave the body with many effects, many of Selina’s schoolmates
 watch the show with interest. Eventually the Master’s body drops dead on the
