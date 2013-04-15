@@ -6,9 +6,13 @@
 
 [<b>Written by:</b> <a href="http://www.shlomifish.org/">Shlomi Fish</a>.]
 
-[<b>Note:</b> This is a tribute/parody of “Buffy, the Vampire Slayer” (both
+[<b>Note:</b> This is a tribute/parody of
+<a href="http://en.wikipedia.org/wiki/Buffy_the_Vampire_Slayer"><i>Buffy,
+the Vampire Slayer</i></a> (both
 the show and, to a lesser extent, the film) and of other sources of
-inspiration such as the Star Trek franchise (primarily “Deep Space Nine”) as
+inspiration such as the Star Trek franchise (primarily
+<a href="http://en.wikipedia.org/wiki/Star_Trek:_Deep_Space_Nine"><i>Deep
+Space Nine</i></a>) as
 well as other sources.
 ]
 
@@ -22,7 +26,7 @@ it is placed in proper capitalisation.]
 <s id="selina-in-history-class" title="Selina in History Class">
 
 [Selina Mandrake is sitting in a classroom taking notes, the other students
-are paying attention, and taking notes too. Selina is an attractive (but
+are paying attention, and taking notes as well. Selina is an attractive (but
 not overly so) girl in her high school senior year, who has immigrated
 to California from England.]
 
@@ -68,14 +72,15 @@ Jessica: And we is too.
 
 Selina: True.
 
-Selina: This reminds me. I really should update my Mandriva system at home.
-I have not in several days, now. And to think I originally had my friend
-Aaron install Mandrake Linux for me, because I thought it was cool that
-it was called the same as my last name.
+Selina: This reminds me. I really should update
+my <a href="http://en.wikipedia.org/wiki/Mandriva_Linux">Mandriva</a>
+system at home.  I have not in several days, now. And to think I originally
+had my friend Aaron install Mandrake Linux for me, because I thought it was
+cool that it was called the same as my last name.
 
 Jessica: Heh, maybe you should become Selina Mandriva now.
 
-Jonathan: Or Selina Mageia.
+Jonathan: Or Selina <a href="http://en.wikipedia.org/wiki/Mageia">Mageia</a>.
 
 [Selina bursts out laughing.]
 
@@ -213,7 +218,7 @@ The Guide moves towards the fainted girl, he makes a gesture around her eyes
 with his hand, grabs her hand and guides her through getting off the floor.
 The Girl wakes up.]
 
-Karen: [Looks at Selina] Oh hi! I remember you from History class…
+Karen: [Looks at Selina] Oh, hi! I remember you from History class…
 
 Selina: [Uncomfortably] Yes, I’m there.
 
@@ -234,8 +239,8 @@ Selina: Oh my God, oh my God. Magic.
 various parts of her body. The Guide hits her strongly on her arm.]
 
 Selina: Ouch! OK, I’m not sleeping. Maybe I’m crazy. This seems like
-Schizophrenia. Maybe I’ve been unhappy lately, and too much stress or maybe
-it’s genetic…
+<a href="http://en.wikipedia.org/wiki/Schizophrenia">Schizophrenia</a>.
+Maybe I’ve been unhappy lately, and too much stress or maybe it’s genetic…
 
 The Guide: YOU ARE NOT CRAZY, MAGEIA!
 
@@ -357,7 +362,8 @@ John: Sounds good.
 Selina: Anyway, I see you come from the old mother land.
 
 John: Yes, we are British blokes, all right. Lots of vampires are Brits.
-I’m from Yorkshire and Alan here…
+I’m from <a href="http://en.wikipedia.org/wiki/Yorkshire">Yorkshire</a>
+and Alan here…
 
 Alan: Yo!
 
@@ -367,7 +373,8 @@ Selina: Great. It’s too bad so many Americans are oblivious to all the great
 British culture. America is too culturally inbred.
 
 Alan: Totally! Like many of the people we talked to have not watched <b>all</b>
-of the skits of Monty Python.
+of the skits of
+<a href="http://en.wikipedia.org/wiki/Monty_Python">Monty Python</a>.
 
 [Selina smiles.]
 
@@ -452,7 +459,7 @@ the newspaper, and sits reading it.
 Fron is hanging about and eventually approaches Selina and extends his neck
 towards the paper and through it until he faces Selina’s face. ]
 
-Fron: YOU ARE PAST REDEMPTION!
+Fron: <a href="http://www.wowwiki.com/Arthas_Menethil">YOU ARE PAST REDEMPTION!</a>
 
 Selina: And you have ruined my newspaper.
 
@@ -461,7 +468,8 @@ Selina: And you have ruined my newspaper.
 Fron: THE TIME WAS NOT RIGHT. THERE IS A TIME FOR EVERYTHING. A TIME TO
 BE BORN, A TIME TO DIE…
 
-Selina: And a time to quote Ecclesiastes!
+Selina: And a time to quote
+<a href="http://en.wikipedia.org/wiki/Ecclesiastes">Ecclesiastes</a>!
 
 Fron: PRECISELY.
 
@@ -552,8 +560,9 @@ Warrior #1: Hail The Slayer, we are but your humble slaves!
 
 Selina: [Shocked] And who might you be?
 
-Warrior #1: We are The Three - three vampire brother warriors, who have been
-fighting since the dawn of time.
+Warrior #1: We
+are <a href="http://buffy.wikia.com/wiki/The_Three_%28vampires%29">The Three</a> -
+three vampire brother warriors, who have been fighting since the dawn of time.
 
 Selina: And you are Klingons…
 
@@ -592,7 +601,8 @@ for a mighty vampire warrior… the wooden toothpick!
 [The three cry “yeah”. Warrior #1 snaps his fingers and the huge swords are
 replaced by small wooden toothpicks.]
 
-Selina: Toothpicks? Have you blokes been watching too much Sesame Street?
+Selina: Toothpicks? Have you blokes been watching too
+much <a href="http://en.wikipedia.org/wiki/Sesame_Street">Sesame Street</a>?
 
 Warrior #1: Why, of course! Every mighty Klingon warrior has watched Sesame
 Street.
@@ -606,13 +616,13 @@ you brought it on yourself. Just do it here on the trail where no one
 will care about the dust from your bodies.
 
 [She guides the three to the trail, where they make some battle cries and
-then hurl the toothpicks with great velocity at each other’s hearts]
+then hurl the toothpicks with great speed at each other’s hearts.]
 
 Warrior #1: What a day to fight using toothpicks!
 
 [They look at each other]
 
-The Three: [in unison] oh, oh.
+The Three: [In unison] Oh, oh.
 
 +++: WE HAVE BEEN SLAIN BY BUFFY MAGEIA, THE SLAYER. [There is a bright
 greenish-yellowish triangle extending from their bodies and extends outwards,
@@ -646,6 +656,8 @@ Jessica on the phone: [Laughing] I guess I’ll never understand.
 
 <s id="selinas-18s-birthday-party" title="Selina’s 18th Birthday Party">
 
+<s id="birthday-party--cake" title="The Birthday Cake">
+
 [Selina is standing near a cake decorated with the number 18 in the centre and
 18 lit candles around the edge. Many of her friends gleefully standby.]
 
@@ -664,6 +676,8 @@ Selina: Well, I’m gonna go grab something from the kitchen — feel free to cu
 the cake.
 
 [Selina walks away.]
+
+</s>
 
 <s id="selina-meets-mephiqoleth" title="Selina Meets Mephiqoleth">
 
@@ -687,7 +701,8 @@ Mephiqoleth: IT IS WRITTEN IN LESHON HAQODESH.
 
 Selina: “Leshon Haqodesh”? The holy tongue? Do you mean…
 
-Mephiqoleth: YES!!!… HEBREW! [Non-dramatically] I am Jewish.
+Mephiqoleth: YES!!!… <a href="http://en.wikipedia.org/wiki/Hebrew_language">HEBREW</a>!
+[Non-dramatically] I am <a href="http://en.wikipedia.org/wiki/Jews">Jewish</a>.
 
 Selina: Jewish? But you’re not human.
 
@@ -800,14 +815,15 @@ there.]
 Mephiqoleth: I SEE YOU ARE READY, MAGEIA.
 
 Selina: Yep! Got my traveller’s checks, some dollars, my mobile, my passport,
-some water, some snacks. Not sure if they will help with surviving The Amber,
-but I can always hope.
+some water, some snacks, some sunscreen. Not sure if all that will help with
+surviving The Amber, but I can always hope.
 
 Mephiqoleth: I COULD HAVE USED MY CONJURING SPELLS TO CONJURE THEM FOR YOU.
 
 Selina: Well, as someone who saw enough of your demons’ lot’s shenanigans,
-<b>and</b> some episodes of Sabrina, there’s no way I will trust such magically
-conjured goods.
+<b>and</b> some episodes of
+<a href="https://en.wikipedia.org/wiki/Sabrina,_the_Teenage_Witch_%28TV_series%29"><i>Sabrina</i></a>,
+there’s no way I will trust such magically conjured goods.
 
 Mephiqoleth: YOU MAY BE RIGHT. MAGIC CAN BE A DOUBLE-EDGED SWORD.
 
@@ -847,11 +863,11 @@ Selina: That’s the Amber? It’s pretty nice here. Hope I’m not trespassing.
 
 Mrs. Mendelssohn: [Startled] Why hello there. Who might you be?
 
-Selina: Oh, Selina Mandrake. At your service! Nice to meet you [she approaches Mrs. Mendelssohn, and extends her hand.]
+Selina: Oh, Selina Mandrake. At your service! Nice to meet you! [She approaches Mrs. Mendelssohn, and extends her hand.]
 
 Mrs. Mendelssohn: Nice to meet you, too: Mrs. Catherine Mendelssohn.
 
-Selina: Nice to meet you. [They shake hands] Just a question: [she looks around] where am I?
+Selina: Nice to meet you. [They shake hands] Just a question: [She looks around] where am I?
 
 Mrs. Mendelssohn: In the Mendelssohn residence.
 
@@ -942,7 +958,7 @@ universe — not some house in Northern Tel Aviv that no one heard about.
 [ Selina puts a small
 <a href="https://en.wikipedia.org/wiki/Tembel_hat">Tembel hat</a>
 on top of Mephiqoleth’s head and gives him a small shirt that reads “My
-slayer went on a trip to Israel and all I got was this stupid T-shirt.”]
+slayer went to Israel and all I got was this stupid T-shirt.”]
 
 Selina: Hope it fits. [She turns away.]
 
@@ -1128,7 +1144,7 @@ disappear.]
 Selina: Wow! OK, I guess that’s one less thing to worry about. Now I’m still
 shocked, so I’m going to buy myself some juice and relax.
 
-The Guide: OK, NEXT YOU MUST HANDLE… <b>THE MASTER</b>!!
+The Guide: OK, NEXT YOU MUST CONFRONT… <b>THE MASTER</b>!!
 
 Selina: I see. THE MASTER. [in a fake dramatic voice]
 
@@ -1168,7 +1184,8 @@ hanging out with my friends, slaying demons. The works? How about you Mr.…
 The Master: Oh, call me Karl.
 
 Selina: Karl, heh. I always thought it would be befitting for the Master to
-be Karl the Great, you know… Charlemagne.
+be Karl the Great, you know…
+<a href="http://en.wikipedia.org/wiki/Charlemagne">Charlemagne</a>.
 
 The Master: Mhmm…
 
@@ -1198,7 +1215,7 @@ leaves the scene.]
 
 <s id="the-guide-after-the-master" title="Talk with the Guide after the Master">
 
-[Selina is still crying and exiting out of the door - The Guide is there.]
+[Selina is still crying, while exiting the door - The Guide is there.]
 
 The Guide: MAGEIA! I SEE THE MASTER HAS BEEN SLAIN BY YOU.
 
@@ -1244,7 +1261,8 @@ hand towards The Guide and Selina.]
 
 Selina: Aaarrrgh! [She quickly runs to hide behind the guide.]
 
-[The Guide pulls out a crossbow from his coat loads it with an arrow, and
+[The Guide pulls out a
+<a href="http://en.wikipedia.org/wiki/Crossbow">crossbow</a> from his coat loads it with an arrow, and
 shoots the unkempt woman in the heart. She evaporates into dust.]
 
 Selina: Oh my god, oh my god. What was that?
@@ -1339,8 +1357,10 @@ over the Internet and stuff. Meanwhile, I started studying Near East
 Archaeology in a different university in California, and now have to learn
 Sumerian, Akkadian, Phoenician, and Aramaic, at least for now.
 
-Cuneiform is driving me mad, so I’m looking for a pastoral place to study it.
-This park is really lovely.
+I need to study
+<a href="http://en.wikipedia.org/wiki/Cuneiform">Cuneiform</a> and it
+is driving me mad, so I’m looking for a pastoral place to study it. This park
+is really lovely.
 ]
 
 [Mosheh and Aharon, who resemble Moses and Aaron from the Bible, approach
@@ -1396,11 +1416,12 @@ since the beginning of the universe.
 
 Selina: Then why do they need me?
 
-Mosheh: Well, how should I start. I gather you’ve watched Star Trek: Deep Space
-Nine?
+Mosheh: Well, how should I start. I gather you’ve
+watched <a href="http://en.wikipedia.org/wiki/Star_Trek:_Deep_Space_Nine"><i>Star
+Trek: Deep Space Nine</i></a>?
 
 Selina: I did, great show. Hold it, hold it! Not their prophets and the Vadeks
-and Kai Win, and…
+and <a href="http://en.memory-alpha.org/wiki/Winn_Adami">Kai Winn</a>, and…
 
 Mosheh: Yep, they are all real to an extent - minus some Hollywood deviations,
 and exaggerations.
@@ -1426,7 +1447,8 @@ of role model to look up to, in order to dispel. How lame!
 
 +++: But what were these slaying tests, and The Guide, and these weird demons,
 and… God, they made me feel so helpless, and mad, and sad, and… all for
-becoming a silly Bajoran god?
+becoming a
+silly <a href="http://en.memory-alpha.org/wiki/Bajoran">Bajoran</a> god?
 
 +++: [she stands up] Couldn’t you have given me a written examination?
 
@@ -1469,10 +1491,14 @@ her.
 
 Selina: I see. So whom do I have the dubious honour to succeed?
 
-Mosheh: This is a complicated story, but let me ask you: have you read The
-Three Muskeeters?
+Mosheh: This is a complicated story, but let me ask you: have you read
+the novel <a href="http://en.wikipedia.org/wiki/The_Three_Musketeers"><i>The
+Three Muskeeters</i></a>?
 
-Selina: By Dumas? Of course! … What?! Milady de-Winter?! She?!
+Selina: By <a href="http://en.wikipedia.org/wiki/Alexandre_Dumas">Dumas</a>?
+Of course! … What?!
+<a href="http://en.wikipedia.org/wiki/Milady_de_Winter">Milady
+de Winter</a>?! She?!
 
 Mosheh: The more accurate story is a bit more complicated, but maybe you’d
 like to hear it from a more authoritative source.
@@ -1557,17 +1583,18 @@ spreading rumours that I killed my husband, and was actually glad he died,
 and were trying to put me down.
 
 +++: At one point, I could not take it anymore, and I went to a corner couch,
-sat down, and started crying. I was joined by d’Artagnan, a young (about my
-age), and promising, guard at the des Essarts’ company of guards, who was a
-big fan of me and my stories about what happened in the Bible, and he asked me:
+sat down, and started crying. I was joined by <a href="http://en.wikipedia.org/wiki/D%27Artagnan">d’Artagnan</a>, a young
+(about my age), and promising, guard at the des Essarts’ company of
+guards, who was a big fan of me and my stories about what happened in
+the Bible, and he asked me:
 
 [Showing the couch]
 
-d’Artagnan: Milady, que se passe-t-il? [ = “Milady, what’s the matter?” ]
+D’Artagnan: Milady, que se passe-t-il? [ = “Milady, what’s the matter?” ]
 
 Milady Kate: Rien [ = “nothing”. She is crying.].
 
-d’Artagnan: Il y a évidemment quelque chose qui ne va pas. Pourquoi
+D’Artagnan: Il y a évidemment quelque chose qui ne va pas. Pourquoi
 pleurez-vous? [ = “something is obviously the matter. Why are you crying?”]
 
 Milady Kate: D’accord. Comme je ne porte plus le deuil et que je
@@ -1575,13 +1602,13 @@ semble heureuse, les autres femmes croient que j’ai tué mon mari.
 [ = “OK. The other women think I killed my husband because I’m now
 no longer grieving and because I seem happy.”]
 
-d’Artagnan: Sottises! On peut à la fois être triste et heureux pour
+D’Artagnan: Sottises! On peut à la fois être triste et heureux pour
 des raisons différentes. [ = “nonsense. You can be sad and happy at the same
 time, for two different things.” ]
 
 Milady Kate: Oui, oui. [ = “yes. yes.”]
 
-d’Artagnan: Laissez-moi vous dire ceci [takes her hands].  Je
+D’Artagnan: Laissez-moi vous dire ceci [takes her hands].  Je
 comprends que vous soyez troublée, mais sachez que ces personnes ne
 vous veulent que du tort et vous ne devriez pas laisser les paroles
 grossières ou méprisantes vous affecter. Vous valez mieux que ça.
@@ -1593,7 +1620,7 @@ to hurt you. You’re better than that.”]
 Milady Kate: M. d’Artagnan, vous êtes très sage pour votre âge.
 [= “M. d’Artagnan, you are quite wise for your age.”]
 
-d’Artagnan: Merci, Milady. Je tâcherai que ça ne me monte pas à la
+D’Artagnan: Merci, Milady. Je tâcherai que ça ne me monte pas à la
 tête. [= “Thank you, Milady. I will not let it go to my head.”]
 
 [They both smile.]
@@ -1606,7 +1633,7 @@ an affair, and while we did not go public about it, we did not really hide
 it, and pretty soon everyone knew, and many single people and couples were
 jealous or envious of us. But we didn’t care.
 
-+++: I should also tell you about the Queen. She was a beautiful
++++: I should also tell you about <a href="http://en.wikipedia.org/wiki/Anne_of_Austria">the Queen, Anne of Austria</a>. She was a beautiful
 woman, but needy and jealous and wanted the King, Louis XIII, to love her,
 without her doing anything to deserve it. The King and his prime minister,
 Cardinal Richelieu, despised her for her incompetence, which made her feel
@@ -1617,9 +1644,11 @@ them quickly lose their job, and then meeting me and telling me how relieved
 they were.
 
 +++: In any case, I was expecting d’Artagnan to propose soon after all that,
-when it was announced that the conquest of La Rochelle was about to take place,
-and that d’Artagnan will relocate there. I was somewhat worried for his future,
-and thought we would have to part soon.
+when it was announced that the
+<a href="http://en.wikipedia.org/wiki/Siege_of_La_Rochelle">conquest
+of La Rochelle</a> was about to take place,
+and that d’Artagnan will relocate there. I was somewhat worried for his
+future, and thought we would have to part soon.
 
 +++: However, nothing prepared me for the time when my maid woke me up in the
 middle of the night and informed me that there were two of the King’s
@@ -1645,8 +1674,9 @@ M. d’Artagnan, then - it was all my fault - I can return to England, and…
 
 Cardinal Richelieu: Lady Canterson, we have known about your affair with
 M. d’Artagnan for a long time, and we do not disapprove of it, but that is not
-why you are here. In fact, we brought you here, in order to slay Lord
-Buckingham, so he won’t interfere with our planned attack of La Rochelle.
+why you are here. In fact, we brought you here, in order to slay
+<a href="http://en.wikipedia.org/wiki/George_Villiers,_1st_Duke_of_Buckingham">Lord
+Buckingham</a>, so he won’t interfere with our planned attack of La Rochelle.
 
 Milady Kate: Kill Lord Buckingham?
 
@@ -1678,7 +1708,9 @@ Milady Kate: Yes, your majesty. [She bows.]
 Kate’s voice: So we did it all, despite some minor setbacks, in
 part due to me bitching about the whole situation. We contacted Lord
 Canterson, who volunteered one of his trusted soldiers for the job.
-And travelled to Portsmouth where Lord Buckingham was about to leave.
+And travelled to
+<a href="http://en.wikipedia.org/wiki/Portsmouth">Portsmouth</a>
+where Lord Buckingham was about to leave.
 
 [Showing the cabin of Lord Buckingham. He is standing there. Adam enters with
 a gun and points it at Lord Buckingham.]
@@ -1698,11 +1730,11 @@ until our arrival. Consider yourself slain and reborn.
 
 Milady Kate: I guess we part now.
 
-d’Artagnan: Yes.
+D’Artagnan: Yes.
 
 Milady Kate: I loved you.
 
-d’Artagnan: I loved you too.
+D’Artagnan: I loved you too.
 
 [They hug.]
 
@@ -1831,7 +1863,7 @@ Aharon: I knew you can do it, Selina.
 
 Mosheh: [tears of joy on his eyes] yes, indeed. See, one of the prophecies
 given by the Bajoran Prophets was that one day the Bajorans themselves will no
-longer need them. Kai Win predicted that the Dispeller will
+longer need them. Kai Winn predicted that the Dispeller will
 finally put the whole ordeal to rest. So the Bajorans have placed the orbs
 on public display for everyone to experience and talk to the Prophets, but
 will no longer take such prophecies seriously. The Prophets of the
@@ -1845,14 +1877,15 @@ individual, and not a mere label.
 
 +++: In the meanwhile, people all across the universe, are rethinking their
 long-term personality and behaviour. As hard-to-fathom Q is, he is still just
-human, who while jump-starting the alien civilisation that became the Q
+humanoid, who while jump-starting the alien civilisation that became the Q
 Continuum, and has been considered The Invisible, admits that after 6 milliard
 years, it is a good idea to stop appearing blasé, and show some emotion and
 compassion for his friends, including his former wives and his children.
 
 Selina: So Q has children?
 
-Mosheh: Indeed. Moreover, <a href="http://en.wikipedia.org/wiki/Kahless">Kahless</a>
+Mosheh: Indeed.
+Moreover, <a href="http://en.wikipedia.org/wiki/Kahless">Kahless</a>
 was revealed to having been alive in the quadrant all the time under his true
 (but constantly disputed) identity. He was not as capable a physical
 warrior as was once reported (and certainly isn’t now) - just someone who knew
@@ -1909,8 +1942,8 @@ spreading vicious rumours, erotica, and even blatant pornography.
 +++: Some peoples used it as one of their technological and strategical
 advantages and made sure to pass many important messages.
 
-+++: On the other hand, Cuneiform was originally created for Sumerian, which
-many considered as a holy and mystical language that must be kept alive,
++++: On the other hand, Cuneiform had originally been created for Sumerian,
+which many considered as a holy and mystical language that must be kept alive,
 and was adopted for Akkadian and its essentially similar variations of
 Babylonian and Assyrian, which reflected an old and no longer usable Semitic
 dialect, that most people on the street did not know or liked.
@@ -1944,7 +1977,7 @@ Kate: And I studied Cuneiform and the memory is still fresh.
 
 Selina: Smashing! OK, so I gather you can help me get ready for the test?
 
-Aharon: We will be delighted. Vampires still have responsibilies as normal
+Aharon: We will be delighted. Vampires still have responsibilities as normal
 human beings, and we always try to assist a fellow vampire.
 
 Selina: Great! OK, let’s start. OK, show me some glyphs and ask me about
