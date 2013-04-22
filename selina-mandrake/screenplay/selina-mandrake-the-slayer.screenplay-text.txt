@@ -943,6 +943,37 @@ air feeling “holy” is true. It is intoxicating. It’s like… you don’t b
 there. It can drive a sane person mad. I don’t understand how people can live
 there.
 
+[Selina presses the button, showing some photos
+of <a href="http://en.wikipedia.org/wiki/Jaffa">Jaffa</a> and Tel Aviv
+at night.]
+
+Selina: The famous Tel Aviv and Jaffa night life.
+
+Jessica’s Voice: [from behind] OK, Selina, hold it, hold it.
+
++++: You said you were going on a trip, but to <b>Israel</b>? Like - seriously?
+
++++: I mean, we are clueful enough to know that it’s not a constant battle
+zone, like some people may be misled to believe, but still!
+
+Selina: Yes, yes, I know. But I still wanted to go, and also got a free
+ticket.
+
+Jonathan: Really? Who gave it to you?
+
+Selina: Oh, a secret admirer.
+
+Matthew: Heh, anyone I should know about?
+
+Selina: He’s not that kind of secret admirer.
+
+[Selina walks to kiss Matthew, and they kiss.]
+
+Selina: Well, I’m going to the kitchen for a sec, then we will continue.
+Hang on!
+
+[Selina walks out of the frame.]
+
 </s>
 
 <s id="selina-slays-mephiqoleth" title="Selina slays Mephiqoleth">
@@ -996,7 +1027,7 @@ Selina: Hey, my name is Selina… oh.
 <s id="is-moshes-ben-amram-the-jewish-prophet" title="Is Mosheh Ben-Amram the Jewish Prophet?">
 
 [Selina is sitting next to her computer at home with Firefox browsing
-<a href="http://he.wikipedia.org/">the Hebrew wikipedia</a>. She keep
+<a href="http://he.wikipedia.org/">the Hebrew wikipedia</a>. She keeps
 highlighting words and hovering on them to find translations using a Firefox
 extension.
 
