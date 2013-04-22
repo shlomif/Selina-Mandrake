@@ -909,7 +909,7 @@ The television is showing a photo of
 Selina: And this is Beit She’an, which is a huge excavation site, which I
 spent a lot of time there. I ended up touring along with them…
 
-[presses the button, and a photo of Selina wearing sunglasses along with
+[Selina presses the button, and a photo of Selina wearing sunglasses along with
 a group of Israeli soldiers (without guns), both male and female, who are
 crowded and stand next to Selina.]
 
@@ -921,6 +921,27 @@ was not actually a soldier.
 +++: Anyway, the soldier I spent the most time talking to was a military
 programmer, who wrote “boring dot-NET code” at work, but we found a common
 language talking about computers and software and Linux and stuff like that.
+
+[Selina presses the button, and a photo of the River Jordan appears.]
+
+Selina: This is
+the <a href="http://en.wikipedia.org/wiki/Jordan_River">River Jordan</a>,
+which is not too impressive. I recall that it took us several minutes to cross
+the <a href="http://en.wikipedia.org/wiki/Rhine">Rhine</a> by train,
+while it took me less than a minute to walk across the Jordan by foot. Anyway,
+I had a fun time
+<a href="http://www.goisrael.com/Tourism_Eng/Articles/Attractions/Pages/Kayaks%20on%20the%20Jordan%20River.aspx">kayaking</a> there.
+
+[Selina presses the button, and a long shot of a view from
+the <a href="http://travel.yahoo.com/p-travelguide-2799066-haas_promenade_tayelet_jerusalem-i">Jerusalem
+promenade</a> is shown.]
+
+Selina: Yes,
+<a href="http://en.wikipedia.org/wiki/Jerusalem">Jerusalem</a> - a beautiful
+city, definitely. That put aside, what they say about the atmosphere and the
+air feeling “holy” is true. It is intoxicating. It’s like… you don’t belong
+there. It can drive a sane person mad. I don’t understand how people can live
+there.
 
 </s>
 
