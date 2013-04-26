@@ -1040,7 +1040,7 @@ Mosheh Ben-Amram: [on IM] Hello, Selina! How are you today?
 
 Selina: I’m fine. Trying to contribute to the Hebrew wikipedia.
 These <a href="https://en.wikipedia.org/wiki/Affix">Affixes</a> are driving
-me crazy?
+me crazy.
 
 Mosheh Ben-Amram: Heh, עברית קשה שפה, but there are worse.
 
