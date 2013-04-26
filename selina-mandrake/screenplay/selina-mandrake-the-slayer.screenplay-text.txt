@@ -1028,7 +1028,7 @@ Selina: Hey, my name is Selina… oh.
 
 [Selina is sitting next to her computer at home with Firefox browsing
 <a href="http://he.wikipedia.org/">the Hebrew wikipedia</a>. She keeps
-highlighting words and hovering on them to find translations using a Firefox
+highlighting words and hovering over them to find translations using a Firefox
 extension.
 
 There is a signal, and the Pidgin icon in the status bar starts blinking.
@@ -1036,7 +1036,7 @@ Selina clicks it.
 
 ]
 
-Mosheh Ben-Amram: [on IM] Hello, Selina! How are you today?
+Mosheh Ben-Amram: [on IM] Hello, Selina! How are you doing, today?
 
 Selina: I’m fine. Trying to contribute to the Hebrew wikipedia.
 These <a href="https://en.wikipedia.org/wiki/Affix">Affixes</a> are driving
@@ -1055,7 +1055,7 @@ Selina: Emeth. [= "True."]
 
 +++: BTW, are you actually Mosheh Ben-Amram (= Moses) the Hebrew prophet?
 
-Mosheh Ben-Amram: I won’t deny it.
+Mosheh Ben-Amram: I won’t deny that I am.
 
 Selina: Hah!
 
