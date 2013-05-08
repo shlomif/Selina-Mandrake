@@ -1027,7 +1027,7 @@ Selina: Hey, my name is Selina… oh.
 <s id="is-moshes-ben-amram-the-jewish-prophet" title="Is Mosheh Ben-Amram the Jewish Prophet?">
 
 [Selina is sitting next to her computer at home with Firefox browsing
-<a href="http://he.wikipedia.org/">the Hebrew wikipedia</a>. She keeps
+<a href="http://he.wikipedia.org/">the Hebrew Wikipedia</a>. She keeps
 highlighting words and hovering over them to find translations using a Firefox
 extension.
 
@@ -1038,7 +1038,7 @@ Selina clicks it.
 
 Mosheh Ben-Amram: [on IM] Hello, Selina! How are you doing, today?
 
-Selina: I’m fine. Trying to contribute to the Hebrew wikipedia.
+Selina: I’m fine. Trying to contribute to the Hebrew Wikipedia.
 These <a href="https://en.wikipedia.org/wiki/Affix">Affixes</a> are driving
 me crazy.
 
