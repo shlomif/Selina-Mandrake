@@ -1383,7 +1383,12 @@ things considered.
 
 [Selina looks bewildered.]
 
-The Guide: Farewell, Ms. Mandrake.
+Selina: but… but… you're a…
+
+The Guide: a guy? Well, it doesn't matter much for slaying. A child once slew
+two mighty nations.
+
++++: Farewell, Ms. Mandrake.
 
 Selina: Bye…
 
@@ -1529,7 +1534,7 @@ Selina: I see. Did they provide the special effects?
 Mosheh: You guessed it.
 
 Selina: OK, I’m still mad at you. But since I still find all this fascinating
-(I have to, as an Archaeologist-wannabe and stuff), I’m going to continue
+(I have to, as a wannabe Archaeologist and stuff), I’m going to continue
 talking to you, despite being mad.
 
 Mosheh: Sure. You may wish to know that the Bajoran scholars considered
