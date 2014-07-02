@@ -104,8 +104,8 @@ EOF
 
 my $gfx = 'Green-d10-dice.png';
 my $fron = 'fron-demon-illustration-small-indexed.png';
-io->file('../graphics/' . $gfx) > io->file($target_dir . "/images/$gfx");
-io->file('../graphics/fron/' . $fron) > io->file($target_dir . "/images/$fron");
+io->file('../graphics/' . $gfx) > io->file("$target_dir/$gfx");
+io->file('../graphics/fron/' . $fron) > io->file("$target_dir/$fron");
 foreach my $basename ('style.css')
 {
     io->file( "$target_dir/$basename" )->utf8->print(<<'EOF');
@@ -187,7 +187,7 @@ my $epub_fn = $epub_basename . ".epub";
 {
     chdir ($target_dir);
 
-    my @cmd = ("ebookmaker", "-f", "epub", "-o", $epub_fn, $json_filename);
+    my @cmd = ("ebookmaker", "--output", $epub_fn, $json_filename);
     print join(' ', @cmd), "\n";
     system (@cmd)
         and die "cannot run ebookmaker - $!";
