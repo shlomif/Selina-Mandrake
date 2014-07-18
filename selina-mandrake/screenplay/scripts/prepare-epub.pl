@@ -104,8 +104,9 @@ EOF
 
 my $gfx = 'Green-d10-dice.png';
 my $fron = 'fron-demon-illustration-small-indexed.png';
-io->file('../graphics/' . $gfx) > io->file("$target_dir/$gfx");
-io->file('../graphics/fron/' . $fron) > io->file("$target_dir/$fron");
+io->dir("$target_dir/images")->mkpath;
+io->file('../graphics/' . $gfx) > io->file("$target_dir/images/$gfx");
+io->file('../graphics/fron/' . $fron) > io->file("$target_dir/images/$fron");
 foreach my $basename ('style.css')
 {
     io->file( "$target_dir/$basename" )->utf8->print(<<'EOF');
