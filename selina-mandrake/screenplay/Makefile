@@ -7,9 +7,9 @@ FILES = Makefile $(DOCS_SCREENPLAY_XHTML) \
 
 DOCS_BASE = selina-mandrake-the-slayer
 
-include screenplays_common.mak
-
 SELINA_UPLOAD_TEMP_DEST = temp-selina-mandrake-P9n7ybv3wq2t
+
+include screenplays_common.mak
 
 all: $(DOCS_SCREENPLAY_XHTML) $(ENG_XHTML) $(ENG_HTML_FOR_OOO)
 
