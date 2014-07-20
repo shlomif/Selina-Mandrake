@@ -9,7 +9,7 @@ DOCS_BASE = selina-mandrake-the-slayer
 
 DOCS_SCREENPLAY_TEXT = $(patsubst %,%.screenplay-text.txt,$(DOCS_BASE))
 DOCS_SCREENPLAY_XML = $(patsubst %,%.screenplay-xml.xml,$(DOCS_BASE))
-DOCS_SCREENPLAY_XHTML = $(patsubst %,%.final-xhtml.xhtml,$(DOCS_BASE))
+DOCS_SCREENPLAY_XHTML = $(patsubst %,%.screenplay-text.xhtml,$(DOCS_BASE))
 DOCS_SCREENPLAY_XHTML_AS_HTML = $(patsubst %,%.final.html,$(DOCS_BASE))
 DOCS_SCREENPLAY_FO = $(patsubst %,%.screenplay-text.fo,$(DOCS_BASE))
 DOCS_SCREENPLAY_RTF = $(patsubst %,%.screenplay-text.rtf,$(DOCS_BASE))
@@ -35,7 +35,7 @@ $(DOCS_SCREENPLAY_XML): %.screenplay-xml.xml: %.screenplay-text.txt
 	perl -MXML::Grammar::Screenplay::App::FromProto -e 'run()' -- \
 	-o $@ $<
 
-$(DOCS_SCREENPLAY_XHTML): %.final-xhtml.xhtml: %.screenplay-xml.xml
+$(DOCS_SCREENPLAY_XHTML): %.screenplay-text.xhtml: %.screenplay-xml.xml
 	perl -MXML::Grammar::Screenplay::App::ToHTML -e 'run()' -- \
 		-o $@ $<
 	perl -i -lape 's/[ \t]+\z//' $@
