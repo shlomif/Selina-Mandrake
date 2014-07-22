@@ -50,7 +50,7 @@ my $target_dir = $obj->target_dir;
                     },
                 ],
                 cover => "images/$gfx",
-                rights => "Creative Commons Attribution ShareAlike Unported (CC-by-3.0)",
+                rights => "Creative Commons Attribution ShareAlike Unported 3.0 (CC-by-sa-3.0)",
                 publisher => 'http://www.shlomifish.org/',
                 language => 'en-GB',
                 subjects => [ 'FICTION/Horror', 'FICTION/Humorous', 'FICTION/Masups', ' FICTION/Science Fiction/General', 'HUMOR/Topic/Religion', 'HUMOR/Form/Parodies', 'Vampires', 'Buffy', ],
