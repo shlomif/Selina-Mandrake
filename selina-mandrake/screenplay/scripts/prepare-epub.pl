@@ -28,9 +28,9 @@ my $target_dir = $obj->target_dir;
 
 {
     my $epub_basename = 'selina-mandrake';
-    my $json_filename = "$epub_basename.json";
 
-    io->file($target_dir . '/' . $json_filename)->utf8->print(
+    $obj->epub_basename($epub_basename);
+    io->file($target_dir . '/' . $obj->json_filename)->utf8->print(
         encode_json(
             {
                 filename => $epub_basename,
@@ -88,20 +88,5 @@ my $target_dir = $obj->target_dir;
         ),
     );
 
-    my $orig_dir = io->curdir->absolute . '';
-
-    my $epub_fn = $epub_basename . ".epub";
-
-    {
-        chdir ($target_dir);
-
-        my @cmd = ("ebookmaker", "--output", $epub_fn, $json_filename);
-        print join(' ', @cmd), "\n";
-        system (@cmd)
-            and die "cannot run ebookmaker - $!";
-
-        chdir ($orig_dir);
-    }
-
-    io->file("$target_dir/$epub_fn") > io->file($out_fn);
+    $obj->output_json;
 }
