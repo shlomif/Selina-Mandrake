@@ -5,9 +5,6 @@ use warnings;
 
 use utf8;
 
-use IO::All;
-use JSON::MaybeXS qw(encode_json);
-
 use Shlomif::Screenplays::EPUB;
 
 my $fron = 'fron-demon-illustration-small-indexed.png';
@@ -28,10 +25,11 @@ my $target_dir = $obj->target_dir;
 
 {
     my $epub_basename = 'selina-mandrake';
-
     $obj->epub_basename($epub_basename);
-    io->file($target_dir . '/' . $obj->json_filename)->utf8->print(
-        encode_json(
+
+    $obj->output_json(
+        {
+            data =>
             {
                 filename => $epub_basename,
                 title => q/Selina Mandrake - The Slayer/,
@@ -85,8 +83,6 @@ my $target_dir = $obj->target_dir;
                     },
                 ],
             },
-        ),
+        },
     );
-
-    $obj->output_json;
 }
