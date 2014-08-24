@@ -19,8 +19,6 @@ my $obj = Shlomif::Screenplays::EPUB->new(
 $obj->run;
 
 my $gfx = $obj->gfx;
-my $out_fn = $obj->out_fn;
-my $target_dir = $obj->target_dir;
 
 {
     my $epub_basename = 'selina-mandrake';
