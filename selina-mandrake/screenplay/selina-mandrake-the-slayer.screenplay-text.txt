@@ -988,7 +988,7 @@ Mephiqoleth: I SEE YOU HAVE SURVIVED THE AMBER.
 
 Selina: I did - yes.
 
-Mephiqoleth: DO YOU NOW BELIEVE HOW POWERFUL I AM.
+Mephiqoleth: DO YOU NOW BELIEVE HOW POWERFUL I AM?
 
 Selina: Well… are you sure you teleported me to the exact location
 of <b>The Amber</b>, you know, the mystical centre of the universe?
@@ -1385,8 +1385,9 @@ things considered.
 
 Selina: but… but… you're a…
 
-The Guide: a guy? Well, it doesn't matter much for slaying. A child once slew
-two mighty nations.
+The Guide: a guy? Well, it doesn't matter much for slaying.
+<a href="http://en.wikipedia.org/wiki/Samantha_Smith">A child</a> once slew
+two mighty superpowers.
 
 +++: Farewell, Ms. Mandrake.
 
@@ -1585,7 +1586,7 @@ Selina: Previous lives? Oh, I suppose you remained young…
 
 Mosheh: …Or became younger.
 
-Selina: Yes, yes, OK, which life are we talking about?
+Selina: Yes, yes, OK. So which life are we talking about?
 
 </s>
 
@@ -1798,10 +1799,10 @@ D’Artagnan: I loved you too.
 Milady Kate: [to Lord Buckingham] Shall we? [She puts her hand in his.]
 
 Kate’s voice: We boarded the ship and started a new life at what became the
-United States of America. I kept touch with Mr. George Smith, as he was now
-called for a while until he no longer needed me. I was also eventually
-became indoctrinated as a vampire, for whom the fact that I once slew the
-1st Duke of Buckingham was merely an anecdote.
+United States of America. I kept in touch with Mr. George Smith, as he was now
+called for a while until he no longer needed me. I was also eventually became
+indoctrinated as a vampire, for whom the fact that I once slew the 1st Duke of
+Buckingham was merely an anecdote.
 
 +++: But all this changed shortly after the publication of
 <i>The Three Musketeers</i> in the 1840s. Having dismissed Alexandre Dumas
@@ -1952,11 +1953,11 @@ in The Day of The Living Dead to guide the Klingons back into rationality and
 carefulness instead of what became their traditional stubbornness and haste.
 
 +++: Furthermore, here on Earth, we start to realise that instead of the “Eye
-for an eye” and “May my soul die with Philistines” adages, which causes
+for an eye” and “May my soul die with Philistines” adages, which cause
 everyone to suffer and be resentful, it is time to adopt a more rational and
 compassionate idiom, as exemplified by the noble practice of
-<a href="http://en.wikipedia.org/wiki/Saladin">Saladin</a>, which yields far
-better long-term results.
+<a href="http://en.wikipedia.org/wiki/User:Shlomif/Saladin_Style">Saladin</a>,
+which yields far better long-term results.
 
 +++: Finally, we admit to ourselves that sometimes
 <a href="http://www.paulgraham.com/opensource.html">amateurs</a> (being people
