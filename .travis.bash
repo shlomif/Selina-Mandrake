@@ -13,11 +13,11 @@ if false
 then
     :
 elif test "$cmd" = "before_install"
+then
     sudo apt-get update -qq
     sudo apt-get install -y ack-grep cpanminus docbook-defguide docbook-xsl libperl-dev libxml-libxml-perl libxml-libxslt-perl make perl tidy xsltproc
     sudo dpkg-divert --local --divert /usr/bin/ack --rename --add /usr/bin/ack-grep
     cpanm local::lib
-then
 elif test "$cmd" = "install"
 then
     cpanm --notest Alien::Tidyp YAML::XS
