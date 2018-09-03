@@ -12,7 +12,7 @@ before_install:
     - cpanm --notest Alien::Tidyp YAML::XS
     - bash -x bin/install-tidyp-systemwide.bash
     - cpanm --notest HTML::Tidy
-    - cpanm File::Find::Object::Rule XML::Grammar::Screenplay
+    - cpanm File::Find::Object::Rule IO::All XML::Grammar::Screenplay
     - git clone https://github.com/shlomif/screenplays-common
 perl:
     - "5.22"
