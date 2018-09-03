@@ -11,7 +11,8 @@ before_install:
     - eval "$(perl -Mlocal::lib=$HOME/perl_modules)"
     - cpanm --notest Alien::Tidyp YAML::XS
     - bash -x bin/install-tidyp-systemwide.bash
-    - cpanm HTML::Tidy XML::Grammar::Screenplay
+    - cpanm --notest HTML::Tidy
+    - cpanm XML::Grammar::Screenplay
     - git clone https://github.com/shlomif/screenplays-common
 perl:
     - "5.22"
