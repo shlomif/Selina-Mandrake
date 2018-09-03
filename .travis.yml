@@ -1,0 +1,12 @@
+os: linux
+dist: trusty
+before_install:
+    - sudo apt-get update -qq
+    - sudo apt-get install -y ack-grep cpanminus docbook-defguide docbook-xsl libperl-dev libxml-libxml-perl libxml-libxslt-perl make perl xsltproc
+    - sudo dpkg-divert --local --divert /usr/bin/ack --rename --add /usr/bin/ack-grep
+    - sudo cpanm XML::Grammar::Screenplay
+perl:
+    - "5.22"
+python:
+    - "3.5"
+script: "cd selina-mandrake/screenplay/ && make && make test"
