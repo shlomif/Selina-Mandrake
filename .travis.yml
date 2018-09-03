@@ -4,18 +4,14 @@ cache:
 os: linux
 dist: trusty
 before_install:
-    - sudo apt-get update -qq
-    - sudo apt-get install -y ack-grep cpanminus docbook-defguide docbook-xsl libperl-dev libxml-libxml-perl libxml-libxslt-perl make perl tidy xsltproc
-    - sudo dpkg-divert --local --divert /usr/bin/ack --rename --add /usr/bin/ack-grep
-    - cpanm local::lib
+    - bash .travis.bash before_install
     - eval "$(perl -Mlocal::lib=$HOME/perl_modules)"
-    - cpanm --notest Alien::Tidyp YAML::XS
-    - bash -x bin/install-tidyp-systemwide.bash
-    - cpanm --notest HTML::Tidy
+    - bash .travis.bash install
     - cpanm File::Find::Object::Rule IO::All XML::Grammar::Screenplay
     - git clone https://github.com/shlomif/screenplays-common
 perl:
     - "5.22"
 python:
     - "3.5"
-script: bash .travis.bash build
+script:
+    - bash .travis.bash build
