@@ -1,4 +1,4 @@
-<s id="selina-mandrake--the-slayer" title="Selina Mandrake - *The* Slayer">
+<s id="selina-mandrake--the-slayer" lang="en" title="Selina Mandrake - *The* Slayer">
 
 <s id="about-this-screenplay" title="About this screenplay">
 
