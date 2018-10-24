@@ -1049,7 +1049,8 @@ Mosheh Ben-Amram: האם את מדברת עברית? [= “Do you speak Hebrew?�
 Selina: Qtsath, or as new speakers will say Qetsath. Heh.
 
 Mosheh Ben-Amram: Yes, one of the first words you have to learn to say,
-and it’s already a Shibboleth.
+and it’s already a
+<a href="https://en.wikipedia.org/wiki/Shibboleth">Shibboleth</a>.
 
 Selina: Emeth. [= "True."]
 
