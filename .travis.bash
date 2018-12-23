@@ -23,8 +23,15 @@ then
 elif test "$cmd" = "before_install"
 then
     sudo apt-get update -qq
-    sudo apt-get --no-install-recommends install -y ack-grep cpanminus dbtoepub docbook-defguide docbook-xsl libperl-dev libxml-libxml-perl libxml-libxslt-perl make perl tidy xsltproc
-    sudo dpkg-divert --local --divert /usr/bin/ack --rename --add /usr/bin/ack-grep
+    sudo apt-get --no-install-recommends install -y ack-grep cpanminus dbtoepub docbook-defguide docbook-xsl libperl-dev libxml-libxml-perl libxml-libxslt-perl make perl python3-pip python3-setuptools tidy xsltproc
+    . /etc/lsb-release
+    if test "$DISTRIB_ID" = 'Ubuntu'
+    then
+        if test "$DISTRIB_RELEASE" = '14.04'
+        then
+            sudo dpkg-divert --local --divert /usr/bin/ack --rename --add /usr/bin/ack-grep
+        fi
+    fi
     cpanm local::lib
 
 
@@ -33,9 +40,12 @@ then
     cpanm --notest Alien::Tidyp YAML::XS
     bash -x bin/install-tidyp-systemwide.bash
     cpanm --notest HTML::Tidy
+    cpanm HTML::T5
     h=~/Docs/homepage/homepage
     mkdir -p "$h"
     git clone https://github.com/shlomif/shlomi-fish-homepage "$h/trunk"
+    sudo -H `which python3` -m pip install cookiecutter
+    ( cd "$h/trunk" && perl bin/my-cookiecutter.pl )
 
 elif test "$cmd" = "build"
 then
