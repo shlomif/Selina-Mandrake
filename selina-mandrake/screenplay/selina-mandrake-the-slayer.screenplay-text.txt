@@ -650,7 +650,43 @@ to truly appreciate Sesame Street until we watch it in the original Klingon.
 
 Jessica on the phone: [Laughing] I guess I’ll never understand.
 
-[She exits the frame]
+[Selina exits the frame]
+
+</s>
+
+<s id="the-guide-after-the-three" title="The Guide After The Three">
+
+[The guide is standing on a trail in the park waiting. Selina approaches him]
+
+The Guide: CONGRATULATIONS MAGEIA! THE THREE HAVE BEEN SLAIN BY YOU!
+
+Selina: Yes, I know. It was not too hard, but I was surprised there are
+Klingon vampires.
+
+The Guide: YOU SHOULD NOT BE SO NAIVE IN THE FUTURE. VAMPIRISM HAS BEEN
+A SCOURGE ALL ACROSS THE UNIVERSE.
+
++++: BUT SOON YOU MUST FACE AN EVEN MORE CHALLENGING ADVERSARY - AN INFAMOUS
+DEMON OF MUCH POWER.
+
+Selina: Really? How is he called?
+
+The Guide: HE MUST NOT BE NAMED, FOR HE CAN TELL WHENEVER HIS NAME IS BEING
+UTTERED.
+
+Selina: Got it. I shall do my best to slay him. I don't suppose his name
+is <a href="https://harrypotter.fandom.com/wiki/Tom_Riddle">Voldemort</a>,
+right?
+
+[Cut to The Guide, he is unamused and angry looking.]
+
+Selina: Oh well, guess I won't need a wand for this one.
+
++++: Bye, Mr. Guide. [She walks away.]
+
+The Guide: FAREWELL, MAGEIA! AND REMEMBER THAT SLAYING IS NO LAUGHING MATTER.
+
+[Cut]
 
 </s>
 
