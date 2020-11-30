@@ -1628,6 +1628,8 @@ Selina: Yes, yes, OK. So which life are we talking about?
 
 <s id="kate-tells-her-story" title="Kate tells her story">
 
+<s id="kate-s-early-life" title="Early Life">
+
 Kate: My first. Well, I was actually born Kate Hampshire, a young Anglican
 baby born to English parents on French soil. I grew up among French children,
 who welcomed me as their own, but when my parents and I returned back to
@@ -1676,7 +1678,11 @@ and women found it amusing and liked me, but a minority of the women started
 spreading rumours that I killed my husband, and was actually glad he died,
 and were trying to put me down.
 
-+++: At one point, I could not take it anymore, and I went to a corner couch,
+</s>
+
+<s id="dartagnan-advice-to-kate" title="d’Artagnan’s Advice">
+
+Kate’s voice: At one point, I could not take it anymore, and I went to a corner couch,
 sat down, and started crying. I was joined by <a href="http://en.wikipedia.org/wiki/D%27Artagnan">d’Artagnan</a>, a young
 (about my age), and promising, guard at the des Essarts’ company of
 guards, who was a big fan of me and my stories about what happened in
@@ -1719,6 +1725,10 @@ tête. [= “Thank you, Milady. I will not let it go to my head.”]
 
 [They both smile.]
 
+</s>
+
+<s id="kate-and-dartagnan-friendship" title="Kate and d’Artagnan’s Friendship">
+
 Kate’s voice: D’Artagnan and I became good friends: I taught him English
 and the Bible, and he told me of some of the things he learned as a
 noble, and what happened at the guards, and helped me improve my
@@ -1744,7 +1754,11 @@ of La Rochelle</a> was about to take place,
 and that d’Artagnan will relocate there. I was somewhat worried for his
 future, and thought we would have to part soon.
 
-+++: However, nothing prepared me for the time when my maid woke me up in the
+</s>
+
+<s id="kate-s-assignment" title="Kate’s Assignment">
+
+Kate’s voice: However, nothing prepared me for the time when my maid woke me up in the
 middle of the night and informed me that there were two of the King’s
 Musketeers at the door. I wondered why. The Musketeers told me the king asked
 to see me, so I wore a plain dress, and the Musketeers took me in a carriage
@@ -1834,6 +1848,10 @@ D’Artagnan: I loved you too.
 
 Milady Kate: [to Lord Buckingham] Shall we? [She puts her hand in his.]
 
+</s>
+
+<s id="kate-is-angry-at-dumas" title="Kate meets Dumas">
+
 Kate’s voice: We boarded the ship and started a new life at what became the
 United States of America. I kept in touch with Mr. George Smith, as he was now
 called for a while until he no longer needed me. I was also eventually became
@@ -1871,6 +1889,10 @@ Please! Sit down.
 of his guest.]
 
 Dumas: Please, tell me all about it.
+
+</s>
+
+<s id="dumas-advice" title="Dumas’ Advice">
 
 [Later on this evening.]
 
@@ -1912,6 +1934,8 @@ Alexandre Dumas: Yes, no wine. Now, Madame, would you like to hear about some
 ideas I have for a new novel?
 
 [Close-up on Kate, she is grinning mischievously.]
+
+</s>
 
 </s>
 
