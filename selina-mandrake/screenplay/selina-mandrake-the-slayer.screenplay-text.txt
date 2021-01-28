@@ -2,14 +2,13 @@
 
 <s id="about-this-screenplay" title="About this screenplay">
 
-[Catch phrase: “Caught between post-Modernism and the New Age”]
+[Tagline: “Caught between post-Modernism and the New Age”]
 
 [<b>Written by:</b> <a href="http://www.shlomifish.org/">Shlomi Fish</a>.]
 
 [<b>Note:</b> This is a tribute/parody of
 <a href="http://en.wikipedia.org/wiki/Buffy_the_Vampire_Slayer"><i>Buffy,
-the Vampire Slayer</i></a> (both
-the show and, to a lesser extent, the film) and of other sources of
+the Vampire Slayer</i></a> and of other sources of
 inspiration such as the Star Trek franchise (primarily
 <a href="http://en.wikipedia.org/wiki/Star_Trek:_Deep_Space_Nine"><i>Deep
 Space Nine</i></a>) as
@@ -23,12 +22,45 @@ it is placed in proper capitalisation.]
 
 </s>
 
+<s id="abstract" title="Abstract">
+
+[
+
+Selina Mandrake ( <a href="https://www.shlomifish.org/humour/bits/facts/Emma-Watson/">Emma Watson</a> )
+was a geeky Anglo-American girl in her high school senior year in 2011
+California, who thought that the show <i>Buffy the Vampire Slayer</i> was fictional.
+However, one day she was approached by a mysterious goth man calling himself "The Guide"
+( <a href="https://en.wikipedia.org/wiki/Wil_Wheaton">Wil Wheaton</a> ;
+<a href="http://wilwheaton.net/">wilwheaton.net</a>)
+who told her that she was none other than Buffy Mageia, <b>The Slayer</b>,
+a legendary heroine who was destined to slay many notable vampires and demons,
+culminating in none other than The Master, the vampire with the oldest
+soul. See how she managed to do so, despite being completely non-violent, and
+even supportive of the demons she encountered.
+
+This is a parody of the television series
+<a href="http://en.wikipedia.org/wiki/Buffy_the_Vampire_Slayer_%28TV_series%29">Buffy
+the Vampire Slayer</a>, while referencing other pieces of popular
+culture, and has many ties to my previous screenplay,
+<a href="https://www.shlomifish.org/humour/Star-Trek/We-the-Living-Dead/">Star Trek: “We, the
+Living Dead”</a>. It’s far-fetched, but, on the other hand, conveys some
+serious messages and insights.
+
+]
+
+</s>
+
 <s id="selina-in-history-class" title="Selina in History Class">
 
-[Selina Mandrake is sitting in a classroom taking notes, the other students
+[
+
+Selina Mandrake (played by Emma Watson) is sitting in a classroom taking
+notes, the other students
 are paying attention, and taking notes as well. Selina is an attractive (but
 not overly so) girl in her high school senior year, who has immigrated
-to California from England.]
+to California from England.
+
+]
 
 Selina’s Internal Dialogue: [In her native English accent] Wow! Why did I have
 to major in history. All we learn about is minutae of obscure political
@@ -95,11 +127,11 @@ Jessica: Yes, many times.
 
 Selina: Yeah, I found it amusing at the time. For a while afterwards, I
 insisted that my friends call me “Buffy” until I realised it was silly, and
-reverted back to “Selina”.
+went back to “Selina”.
 
 Jessica: Anyway, I’m off to gym.
 
-Selina: Bye, love you.
+Selina: Bye, love you!
 
 [Selina is reading a book and says to herself out loud]
 
@@ -160,12 +192,16 @@ Selina’s internal dialogue: OK, let’s see what there is to eat.
 <s id="meet-the-guide" title="Meet the Guide">
 
 [Selina is back at school, and is walking in a corridor, smiling. She opens a
-door and the corridor is empty except for “The Guide”, an attractive
+door and the corridor is empty except for “The Guide” (=
+<a href="http://wilwheaton.net/">wilwheaton.net</a> )
+, an attractive
 Goth-style man, who is standing there watching her with a grave facial
-expression.]
+expression.
 
-[Selina looks at him, smiles and walks towards him. As she passes him he says
-in a dramatic voice:]
+Selina looks at him, smiles and walks towards him. As she passes him he says
+in a dramatic voice:
+
+]
 
 The Guide: MAGEIA!
 
@@ -181,8 +217,8 @@ just a joke. My name is Selina Mandrake.
 The Guide: YOU KNOW YOU’RE REALLY BUFFY MAGEIA. AND BEING <b>THE</b> SLAYER
 IS YOUR DESTINY.
 
-Selina: OK, I think you take Buffy way too seriously. I am not really a Vampire
-Slayer, and vampires and the other demons that you could see there don’t really
+Selina: OK, I think you take Buffy way too seriously. I am not really a vampire
+slayer, and vampires and the other demons that you could see there don’t really
 exist.
 
 The Guide: [Giggles] THE PORTRAYAL OF BUFFY, THE VAMPIRE SLAYER IN THE
@@ -203,7 +239,8 @@ Selina: This must be some kind of trick. [She starts walking in the corridor
 
 Selina: Please don’t follow me. [She opens a door to another corridor]
 
-[In the corridor there’s a scared and screaming high school girl to the left,
+[In the corridor there’s a scared and screaming high school girl (called Karen)
+to the left,
 and a blood thirsty vampire with his fangs out to the right. The blood thirsty
 vampire approaches the girl.]
 
@@ -216,7 +253,7 @@ girl looks at him and faints.]
 [Selina is startled and looks around while holding her fingers to her mouth.
 The Guide moves towards the fainted girl, he makes a gesture around her eyes
 with his hand, grabs her hand and guides her through getting off the floor.
-The Girl wakes up.]
+Karen wakes up.]
 
 Karen: [Looks at Selina] Oh, hi! I remember you from History class…
 
@@ -1601,8 +1638,14 @@ Selina: From whom?
 
 Mosheh: Look behind you.
 
-[Selina turns around and notices a black-haired attractive white woman,
-looking in her thirties or fourties or so.]
+[
+
+Selina turns around and notices a black-haired attractive white woman,
+looking in her thirties or fourties or so, Kate (
+<a href="https://en.wikipedia.org/wiki/Gabrielle_Anwar">Gabrielle Anwar</a>
+)
+
+.]
 
 Selina: [sheepishly] Hi, who might you be?
 
@@ -1735,7 +1778,7 @@ noble, and what happened at the guards, and helped me improve my
 French. We ended up falling in love and having
 an affair, and while we did not go public about it, we did not really hide
 it, and pretty soon everyone knew, and many single people and couples were
-jealous or envious of us. But we didn’t care.
+jealous of us. But we didn’t care.
 
 +++: I should also tell you about <a href="http://en.wikipedia.org/wiki/Anne_of_Austria">the Queen, Anne of Austria</a>. She was a beautiful
 woman, but needy and jealous and wanted the King, Louis XIII, to love her,
@@ -1758,11 +1801,11 @@ future, and thought we would have to part soon.
 
 <s id="kate-s-assignment" title="Kate’s Assignment">
 
-Kate’s voice: However, nothing prepared me for the time when my maid woke me up in the
-middle of the night and informed me that there were two of the King’s
+Kate’s voice: However, nothing prepared me for the time when my maid woke me up
+in the middle of the night and informed me that there were two of the King’s
 Musketeers at the door. I wondered why. The Musketeers told me the king asked
-to see me, so I wore a plain dress, and the Musketeers took me in a carriage
-to the palace. They escorted me to a room where I saw the King sitting at an
+to see me, so I wore a plain dress, and the Musketeers took me in a carriage to
+the palace. They escorted me to a room where I saw the king sitting at an
 armchair, as well as d’Artagnan, and his good friend and mentor, Athos,
 standing at a corner.
 
@@ -1775,7 +1818,7 @@ Milady Kate: [A little worried] I do, nice to meet you again.
 
 Louis XIII: Please meet his eminence.
 
-[Cardinal Richelieu turns to face them.]
+[Cardinal Richelieu ( <a href="https://en.wikipedia.org/wiki/Patrick_Stewart">Patrick Stewart</a> ) turns to face them.]
 
 Milady Kate: His eminence! Oh no, oh no… if it’s about my relationship with
 M. d’Artagnan, then - it was all my fault - I can return to England, and…
@@ -1988,8 +2031,8 @@ will no longer take such prophecies seriously. The Prophets of the
 wormhole will continue to be an active field of research for the Bajorans and
 the Q Continuum, but won’t be considered an object of worship.
 
-+++: Tomorrow’s day in Bajor will not be the day of the Dispeller, but rather
-the day of Selina Mandrake, the wonderful, beautiful, intelligent,
++++: Tomorrow’s day in Bajor will not be "The Day of the Dispeller", but rather
+"The Day of Selina Mandrake", the wonderful, beautiful, intelligent,
 and, as some Americans will say, “awesome”, young woman, but an
 individual, and not a mere label.
 
@@ -2009,7 +2052,7 @@ was revealed to having been alive in the quadrant all the time under his true
 warrior as was once reported (and certainly isn’t now) — just someone who knew
 how to avoid fighting, and reach a middle ground without anyone getting hurt,
 and nor is he as impressive physically as reported back then. He returned
-in The Day of The Living Dead to guide the Klingons back into rationality and
+in "The Day of The Living Dead" to guide the Klingons back into rationality and
 carefulness instead of what became their traditional stubbornness and haste.
 
 +++: Furthermore, here on Earth, we start to realise that instead of the “Eye
