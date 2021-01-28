@@ -510,7 +510,7 @@ Selina: And a time to quote
 
 Fron: PRECISELY.
 
-+++: Anyway, I am pleased to meet you, Mr.….
+Selina: Anyway, I am pleased to meet you, Mr.….
 
 Fron: FRON…
 
@@ -601,7 +601,7 @@ Warrior #1: WE
 ARE <a href="http://buffy.wikia.com/wiki/The_Three_%28vampires%29">THE THREE</a> -
 THREE VAMPIRE BROTHER WARRIORS, WHO HAVE BEEN FIGHTING SINCE THE DAWN OF TIME.
 
-Selina: And you are Klingons…
+Selina: And yet you are Klingons…
 
 Warrior #2: WE CAN ASSUME ANY FORM.
 
@@ -970,7 +970,9 @@ Yaron about inviting his friends over.
 
 <s id="selinas-impressions-from-Israel" title="Selina’s impressions from Israel">
 
-[ Selina is standing in the living room holding a remote control to the
+[
+
+Selina is standing in the living room holding a remote control to the
 television showing photos from her trip to Israel.
 
 The television is showing a photo of
