@@ -26,11 +26,11 @@ it is placed in proper capitalisation.]
 
 [
 
-Selina Mandrake ( <a href="https://www.shlomifish.org/humour/bits/facts/Emma-Watson/">Emma Watson</a> )
+Selina Mandrake (<a href="https://www.shlomifish.org/humour/bits/facts/Emma-Watson/">Emma Watson</a>)
 was a geeky Anglo-American girl in her high school senior year in 2011
 California, who thought that the show <i>Buffy the Vampire Slayer</i> was fictional.
 However, one day she was approached by a mysterious goth man calling himself "The Guide"
-( <a href="https://en.wikipedia.org/wiki/Wil_Wheaton">Wil Wheaton</a> ;
+(<a href="https://en.wikipedia.org/wiki/Wil_Wheaton">Wil Wheaton</a> ;
 <a href="http://wilwheaton.net/">wilwheaton.net</a>)
 who told her that she was none other than Buffy Mageia, <b>The Slayer</b>,
 a legendary heroine who was destined to slay many notable vampires and demons,
@@ -1643,9 +1643,7 @@ Mosheh: Look behind you.
 [
 
 Selina turns around and notices a black-haired attractive white woman,
-looking in her thirties or fourties or so, Kate (
-<a href="https://en.wikipedia.org/wiki/Gabrielle_Anwar">Gabrielle Anwar</a>
-)
+looking in her thirties or fourties or so, Kate (<a href="https://en.wikipedia.org/wiki/Gabrielle_Anwar">Gabrielle Anwar</a>).
 
 .]
 
@@ -1820,7 +1818,7 @@ Milady Kate: [A little worried] I do, nice to meet you again.
 
 Louis XIII: Please meet his eminence.
 
-[Cardinal Richelieu ( <a href="https://en.wikipedia.org/wiki/Patrick_Stewart">Patrick Stewart</a> ) turns to face them.]
+[Cardinal Richelieu (<a href="https://en.wikipedia.org/wiki/Patrick_Stewart">Patrick Stewart</a>) turns to face them.]
 
 Milady Kate: His eminence! Oh no, oh no… if it’s about my relationship with
 M. d’Artagnan, then - it was all my fault - I can return to England, and…
