@@ -5,14 +5,13 @@ use warnings;
 
 use utf8;
 
-use Shlomif::Screenplays::EPUB;
+use Shlomif::Screenplays::EPUB ();
 
 my $fron = 'fron-demon-illustration-small-indexed.png';
-my $obj = Shlomif::Screenplays::EPUB->new(
+my $obj  = Shlomif::Screenplays::EPUB->new(
     {
-        images =>
-        {
-            "fron/$fron" => "images/$fron",
+        images => {
+            $fron => "images/$fron",
         },
     }
 );
@@ -26,33 +25,40 @@ my $gfx = $obj->gfx;
 
     $obj->output_json(
         {
-            data =>
-            {
+            data => {
                 filename => $epub_basename,
-                title => q/Selina Mandrake - The Slayer/,
-                authors =>
-                [
+                title    => q/Selina Mandrake - The Slayer/,
+                authors  => [
                     {
                         name => "Shlomi Fish",
                         sort => "Fish, Shlomi",
                     },
                 ],
-                contributors =>
-                [
+                contributors => [
                     {
                         name => "Shlomi Fish",
                         role => "oth",
                     },
                 ],
-                cover => "images/$gfx",
-                rights => "Creative Commons Attribution ShareAlike Unported 3.0 (CC-by-sa-3.0)",
+                cover  => "images/$gfx",
+                rights =>
+"Creative Commons Attribution ShareAlike Unported 3.0 (CC-by-sa-3.0)",
                 publisher => 'http://www.shlomifish.org/',
-                language => 'en-GB',
-                subjects => [ 'FICTION/Horror', 'FICTION/Humorous', 'FICTION/Masups', ' FICTION/Science Fiction/General', 'HUMOR/Topic/Religion', 'HUMOR/Form/Parodies', 'Vampires', 'Buffy', ],
-                identifier =>
-                {
+                language  => 'en-GB',
+                subjects  => [
+                    'FICTION/Horror',
+                    'FICTION/Humorous',
+                    'FICTION/Masups',
+                    ' FICTION/Science Fiction/General',
+                    'HUMOR/Topic/Religion',
+                    'HUMOR/Form/Parodies',
+                    'Vampires',
+                    'Buffy',
+                ],
+                identifier => {
                     scheme => 'URL',
-                    value => 'http://www.shlomifish.org/humour/Selina-Mandrake/',
+                    value  =>
+                        'http://www.shlomifish.org/humour/Selina-Mandrake/',
                 },
             },
         },
