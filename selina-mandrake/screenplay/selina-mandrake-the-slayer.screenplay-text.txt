@@ -719,7 +719,13 @@ right?
 
 Selina: Oh well, guess I won't need a wand for this one.
 
-+++: Bye, Mr. Guide. [She walks away.]
+[
+
+<img src="./images/emma-watson-wandless.svg.webp" alt="Emma Watson" title="“I played Hermione in the Harry Potter films but I don't need a wand to kick your ass” #SelinaMandrake @EmmaWatson" />
+
+]
+
+Selina: Bye, Mr. Guide. [She walks away.]
 
 The Guide: FAREWELL, MAGEIA! AND REMEMBER THAT SLAYING IS NO LAUGHING MATTER.
 
