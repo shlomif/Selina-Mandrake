@@ -1691,8 +1691,8 @@ Selina: But you still had a trace of a French accent…
 Kate: Precisely.
 
 +++: Anyway, as opposed to Dumas’ description, I was a brunette, for
-which some no-goodnicks from my whereabouts, ridiculed me of being of
-Jewish heritage, but eventually, I knew not to care. There were plenty of
+which some no-goodnicks from my whereabouts, ridiculed me for being of
+Jewish descent, but eventually, I knew not to care. There were plenty of
 other brunette girls among my friends, anyway.
 
 +++: Anyway, my father wanted me to learn the proper Christian law and ethics,
@@ -2001,7 +2001,7 @@ consider Milady de-Winter as their own, they both wanted to claim me.
 Selina: Beautiful story.
 
 Kate: Yes, well, that was how The Slayer came to be, but now we started a
-new age where dispelling is preferred. So I pass the baton for you and finally
+new age where dispelling is preferred. So I pass the baton to you, and finally
 have some peace.
 
 [Selina hugs Kate and bursts into tears.]
@@ -2052,7 +2052,8 @@ compassion for his friends, including his former wives and his children.
 Selina: So Q has children?
 
 Mosheh: Indeed.
-Moreover, <a href="http://en.wikipedia.org/wiki/Kahless">Kahless</a>
+
++++: Moreover, <a href="http://en.wikipedia.org/wiki/Kahless">Kahless</a>
 was revealed to having been alive in the quadrant all the time under his true
 (but constantly disputed) identity. He was not as capable a physical
 warrior as was once reported (and certainly isn’t now) — just someone who knew
@@ -2134,7 +2135,7 @@ Selina: You too? [Selina looks at her.]
 Kate: Of course! See, my obsession with the Bible continued throughout my
 life, and later on I became a scholar: first as a married woman who just
 frequented universities and learned things from the male professors
-and students; later on as someone who helped some professors with their
+and students; later on, as someone who helped some professors with their
 research, and eventually got credited; and as time progressed,
 I got a B.A., and then a Ph.D., and am now a professor.
 
