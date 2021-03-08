@@ -7,14 +7,9 @@ use utf8;
 
 use Shlomif::Screenplays::EPUB ();
 
-my $fron     = 'fron-demon-illustration-small-indexed.png';
-my $wandless = 'emma-watson-wandless.svg.webp';
-my $obj      = Shlomif::Screenplays::EPUB->new(
+my $obj = Shlomif::Screenplays::EPUB->new(
     {
-        images => {
-            $fron     => "images/$fron",
-            $wandless => "images/$wandless",
-        },
+        images => {},
     }
 );
 $obj->run;
