@@ -1201,7 +1201,13 @@ all pay attention and start clapping and howling.
 
 Selina takes the stand, amused.]
 
-Selina: You seem in a good mood, which is a good thing. So how can I serve?
+Selina: Greetings, fellow adventurers. My name is Selina and judging by recent developments, <a href="https://en.wikiquote.org/wiki/Linus_Torvalds">I am your god</a>. "Goddess"?
+
++++: For your information, if you're not gods, then <a href="https://www.youtube.com/watch?v=jCe5vfQx50c">you will die</a>.
+
+[The vampires laugh, cheer and howl.]
+
+Selina: You seem to be in a good mood, which is a good thing. So how can I serve?
 
 The crowd: Hail the Slayer! We want to be slain by you.
 
