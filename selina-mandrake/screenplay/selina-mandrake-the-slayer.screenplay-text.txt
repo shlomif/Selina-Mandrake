@@ -588,6 +588,8 @@ Selina’s internal dialogue: Wow, why me? Why me? This is maddening.
 
 <s id="selina-and-the-three" title="Selina and The Three">
 
+<s id="selina-and-the-three--the-battle" title="The Battle">
+
 [There are three young men dressed as Klingons who fight with
 <a href="http://en.wikipedia.org/wiki/Bat%27leth">Bat’leth</a> in the park.
 Selina is passing by and shakes her head in disapproval. The three notice Selina,
@@ -730,6 +732,8 @@ Selina: Bye, Mr. Guide. [She walks away.]
 The Guide: FAREWELL, MAGEIA! AND REMEMBER THAT SLAYING IS NO LAUGHING MATTER.
 
 [Cut]
+
+</s>
 
 </s>
 
