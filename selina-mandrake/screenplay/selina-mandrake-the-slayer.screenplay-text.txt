@@ -1576,8 +1576,7 @@ and <a href="http://en.memory-alpha.org/wiki/Winn_Adami">Kai Winn</a>, and…
 Mosheh: Yep, they are all real to an extent - minus some Hollywood deviations,
 and exaggerations.
 
-Selina: Oh God… who is probably Don Knuth, right. I know the “Knuth is not God”
-meme.
+Selina: Oh God… who is probably Don Knuth, right. I know the <a href="https://www.shlomifish.org/humour/bits/facts/Knuth/">“Knuth is not God”</a> meme.
 
 Mosheh: Well, according to the prophets he is “The God” and “The Neo-Tech God”.
 
