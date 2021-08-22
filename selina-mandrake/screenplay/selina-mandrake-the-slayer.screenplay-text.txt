@@ -1570,7 +1570,7 @@ Mosheh: Well, how should I start. I gather you’ve
 watched <a href="http://en.wikipedia.org/wiki/Star_Trek:_Deep_Space_Nine"><i>Star
 Trek: Deep Space Nine</i></a>?
 
-Selina: I did, great show. Hold it, hold it! Not their prophets and the Vadeks
+Selina: I did, great show. Hold it, hold it! Not their prophets and the <a href="https://memory-alpha.fandom.com/wiki/Vedek">Vedeks</a>
 and <a href="http://en.memory-alpha.org/wiki/Winn_Adami">Kai Winn</a>, and…
 
 Mosheh: Yep, they are all real to an extent - minus some Hollywood deviations,
@@ -1582,7 +1582,7 @@ Mosheh: Well, according to the prophets he is “The God” and “The Neo-Tech 
 
 Selina: Why Neo-Tech?
 
-Mosheh: Because we are part of “The Neo-Tech conspiracy for establishing the
+Mosheh: Because we are part of “<a href="https://buffyfanfiction.fandom.com/wiki/The_Neo-Tech_conspiracy_for_establishing_the_Semitic_culture">The Neo-Tech conspiracy</a> for establishing the
 Semitic culture”.
 
 Selina: Wasn’t it established thousands of years ago?
