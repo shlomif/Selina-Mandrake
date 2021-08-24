@@ -1502,10 +1502,10 @@ and that I should write it and publish it online.
 [ Selina is walking in a nice park. ]
 
 [ Selina’s internal dialogue: Matthew and I got accepted into different
-universities, so we parted ways. Jessica, Jonathan and I are still chatting
-over the Internet and stuff. Meanwhile, I started studying Near East
-Archaeology in a different university in California, and now have to learn
-Sumerian, Akkadian, Phoenician, and Aramaic, at least for now.
+universities, so we parted ways. Jessica, Jonathan, Matthew, and I are still
+chatting over the Internet and stuff. Meanwhile, I started studying Near East
+Archaeology in my university in California, and now have to learn Sumerian,
+Akkadian, Phoenician, and Aramaic, at least for now.
 
 I need to study
 <a href="http://en.wikipedia.org/wiki/Cuneiform">Cuneiform</a> and it
@@ -1612,7 +1612,7 @@ about what you say or have important amendments.
 
 Selina: I see. [Selina giggles.]
 
-Mosheh: I should also tell you about the Q continuum.
+Mosheh: I should also tell you about the <a href="https://buffyfanfiction.fandom.com/wiki/Q_Continuum_(Selinaverse)">Q continuum</a>.
 
 Selina: Yes, I gather it existed, only it seems that the Qs cannot be
 omnipotent, because it’s a logical and mathematical impossibility.
@@ -1658,19 +1658,19 @@ Mosheh: Look behind you.
 
 [
 
-Selina turns around and notices a black-haired attractive white woman,
-looking in her thirties or fourties or so, Kate (<a href="https://en.wikipedia.org/wiki/Gabrielle_Anwar">Gabrielle Anwar</a>).
+Selina turns around and notices Kate (<a href="https://en.wikipedia.org/wiki/Gabrielle_Anwar">Gabrielle Anwar</a>), a black-haired attractive white woman,
+looking in her thirties or fourties or so.
 
 .]
 
 Selina: [sheepishly] Hi, who might you be?
 
-Stranger Woman: [excited] Oh Selina, I feel like I’ve known you all my life.
+Kate: [excited] Oh Selina, I feel like I’ve known you all my life.
 [she runs to hug Selina. Selina reluctantly lets her hug her.]
 
 Selina: OK, OK, but who are you Ms.…
 
-Stranger Woman: Oh sorry, [lets herself go of Selina] I am Kate.
+Kate: Oh sorry, [lets herself go of Selina] I am Kate.
 
 Selina: Nice to meet you, Ms. Kate.
 
@@ -1788,13 +1788,12 @@ tête. [= “Thank you, Milady. I will not let it go to my head.”]
 
 <s id="kate-and-dartagnan-friendship" title="Kate and d’Artagnan’s Friendship">
 
-Kate’s voice: D’Artagnan and I became good friends: I taught him English
-and the Bible, and he told me of some of the things he learned as a
-noble, and what happened at the guards, and helped me improve my
-French. We ended up falling in love and having
-an affair, and while we did not go public about it, we did not really hide
-it, and pretty soon everyone knew, and many single people and couples were
-jealous of us. But we didn’t care.
+Kate’s voice: D’Artagnan and I became good friends: I taught him English and
+the Bible, and he told me of some of the things he learned as a noble, and what
+happened at the guards, and helped me improve my French. We ended up falling in
+love and having an affair, and while we did not go public about it, we did not
+really hide it, and pretty soon everyone knew, and many single people and
+couples were jealous of us. But we didn’t care.
 
 +++: I should also tell you about <a href="http://en.wikipedia.org/wiki/Anne_of_Austria">the Queen, Anne of Austria</a>. She was a beautiful
 woman, but needy and jealous and wanted the King, Louis XIII, to love her,
@@ -1818,11 +1817,12 @@ future, and thought we would have to part soon.
 <s id="kate-s-assignment" title="Kate’s Assignment">
 
 Kate’s voice: However, nothing prepared me for the time when my maid woke me up
-in the middle of the night and informed me that there were two of the King’s
-Musketeers at the door. I wondered why. The Musketeers told me the king asked
-to see me, so I wore a plain dress, and the Musketeers took me in a carriage to
-the palace. They escorted me to a room where I saw the king sitting at an
-armchair, as well as d’Artagnan, and his good friend and mentor, Athos,
+in the middle of the night and informed me that there two of the King’s
+Musketeers were at the door. I wondered why. The Musketeers told me the king
+asked to see me, so I wore a plain dress, and the Musketeers took me in a
+carriage to the palace. They escorted me to a room where I saw the king sitting
+at an armchair, as well as d’Artagnan, and his good friend and mentor,
+<a href="https://buffyfanfiction.fandom.com/wiki/Athos_(Selinaverse)">Athos</a>,
 standing at a corner.
 
 [Showing the scene at the Palace.]
@@ -1935,8 +1935,8 @@ me.
 
 Dumas: But, Madame, why?
 
-Kate: How shall I put it? For your information, I was
-once Lady Kate Canterson and…
+Kate: How shall I put it? For your information, I was once Lady Kate Canterson
+and…
 
 Dumas: [Interrupts her] Oh, non! C’est un impossible. You are the… real
 Milady de-Winter!
