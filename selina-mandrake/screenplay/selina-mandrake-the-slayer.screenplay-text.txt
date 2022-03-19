@@ -1395,7 +1395,7 @@ VAMPIRE.
 
 Selina: Hold it, hold it, <b>hold it</b>! I am <b>The Slayer</b>!
 
-The Guide: THAT IS CORRECT. A VAMPIRE CAN ONLY BE SLAIN BY ANOTHER VAMPIRE,
+The Guide: THAT IS CORRECT. A VAMPIRE CAN ONLY BE SLAIN BY OTHER VAMPIRES,
 EXCEPT FOR THE LAST STANDING VAMPIRE, WHO WILL BE SLAIN BY
 <a href="https://www.youtube.com/watch?v=GibiNy4d4gc">THEIR FAVOURITE CHILDREN</a>.
 
@@ -1417,7 +1417,7 @@ hand towards The Guide and Selina.]
 Selina: Aaarrrgh! [She quickly runs to hide behind the guide.]
 
 [The Guide pulls out a
-<a href="http://en.wikipedia.org/wiki/Crossbow">crossbow</a> from his coat loads it with an arrow, and
+<a href="http://en.wikipedia.org/wiki/Crossbow">crossbow</a> from his coat, loads it with an arrow, and
 shoots the unkempt woman in the heart. She evaporates into dust.]
 
 Selina: Oh my god, oh my god. What was that?
@@ -1459,7 +1459,7 @@ Jewish people a piece of my mind for all the hardship he has done to me.
 [She tries to reach the phone, the Guide does not let her]
 
 The Guide: [On the phone] Yes, she passed with blazing colours…that’s great…
-sounds good… OK, I’ll tell her…[hangs the phone.]
+sounds good… OK, I’ll tell her… [hangs the phone.]
 
 Selina: Hrrrrrrrrrrggggh…
 
@@ -1512,17 +1512,16 @@ and that I should write it and publish it online.
 
 [ Selina is walking in a nice park. ]
 
-[ Selina’s internal dialogue: Matthew and I got accepted into different
+Selina’s voice: Matthew and I got accepted into different
 universities, so we parted ways. Jessica, Jonathan, Matthew, and I are still
 chatting over the Internet and stuff. Meanwhile, I started studying Near East
 Archaeology in my university in California, and now have to learn Sumerian,
 Akkadian, Phoenician, and Aramaic, at least for now.
 
-I need to study
++++: I need to study
 <a href="http://en.wikipedia.org/wiki/Cuneiform">Cuneiform</a> and it
 is driving me mad, so I’m looking for a pastoral place to study it. This park
 is really lovely.
-]
 
 [Mosheh and Aharon, who resemble Moses and Aaron from the Bible, approach
 Selina from a different pathway. They are wearing backpacks.]
