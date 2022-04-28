@@ -17,7 +17,7 @@ well as other sources.
 
 [<b>Note:</b> style note, when the vampires and demons in the story talk in
 a dramatic and phony tone it is placed in “ALL CAPS” (inspired by the talk
-of Death in the Discworld series). When they talk non-dramatically and honestly,
+of <a href="https://discworld.fandom.com/wiki/Death">Death in the Discworld series</a>). When they talk non-dramatically and honestly,
 it is placed in proper capitalisation.]
 
 </s>
@@ -64,8 +64,8 @@ to California from England.
 
 Selina’s Internal Dialogue: [In her native English accent] Wow! Why did I have
 to major in history. All we learn about is minutae of obscure political
-documents from modern times. Like that’s going to prepare me for being a
-Near East Archaeologist . Maybe I should have majored in maths… or physics…
+documents from modern times. Like that’s going to help me be prepared for being a
+<a href="https://en.wikipedia.org/wiki/Near_East">Near</a> East Archaeologist . Maybe I should have majored in maths… or physics…
 or something.
 
 +++: Not to mention that I am way out of vicinity from the Near East.
@@ -98,7 +98,7 @@ Selina: [Sarcastically] Geeks!
 
 Jessica: Heh, like you’re not a geek too.
 
-Selina: I is!
+Selina: I is! [<a href="https://en.wikipedia.org/wiki/Lolcat">lolcats</a>]
 
 Jessica: And we is too.
 
@@ -384,7 +384,7 @@ Alan: We’re mighty vampires.
 
 Selina: [Amused] Selina Mandrake, mighty pirate.
 
-John: Wow! You’ve played the Monkey Islands too? That’s so cool.
+John: Wow! You’ve played the <a href="https://en.wikipedia.org/wiki/Monkey_Island">Monkey Islands</a> too? That’s so cool.
 
 Selina: Yes, I have. How may I be of service?
 
@@ -425,7 +425,7 @@ of the skits of
 
 John: Nobody expects the Spanish Inquisition!
 
-Alan: I know: suicide squad!
+Alan: I know: <a href="https://www.youtube.com/watch?v=nIRCatZ2UVA">suicide squad</a>!
 
 [Selina is startled. Alan and John take two pencils, put the
 pencils to their hearts and say.]
@@ -538,7 +538,7 @@ Selina: It is. OK, next - how about I’ll cut here and here and here.
 
 [Camera zooms in to reveal a swastika around Fron’s neck.]
 
-Selina: A swastika. Something mystical for a mystical creature like you.
+Selina: A <a href="https://en.wikipedia.org/wiki/Swastika">swastika</a>. Something mystical for a mystical creature like you.
 
 Fron: WHAT?! NO!!! I HAVE A VULNERABILITY FOR SWASTIKAS!
 
@@ -942,7 +942,7 @@ Mephiqoleth: … האמבר. [The Amber]
 <s id="selina-in-the-amber" title="Selina in the Amber">
 
 [ Seen through Selina’s Eyes, the scenery morphs into the untidy living room
-of, in midday, in a “villa" in Ramat Aviv Gimmel, Tel Aviv. The birds are
+of, in midday, in a “villa" in <a href="https://en.wikipedia.org/wiki/Ramat_Aviv_Gimel">Ramat Aviv Gimmel</a>, Tel Aviv. The birds are
 chirping outside and there’s a feeling of tranquillity. ]
 
 [Cut to Selina inside the house. She looks around]
@@ -1231,7 +1231,7 @@ Selina: Vampires of the world unite!
 
 [More cheering.]
 
-Selina: You have nothing to fear - not even fear.
+Selina: <a href="https://www.setquotes.com/we-have-nothing-to-fear-but-fear-itself/">You have nothing to fear</a> - not even fear.
 
 [Louder cheering.]
 
@@ -1312,7 +1312,7 @@ The Guide: FAREWELL, MAGEIA, AND REMEMBER TO BE PREPARED FOR THE WORST.
 
 [Selina runs into The Master, a big man with a stern look.]
 
-The Master: Greetings, Miss Mandrake! I am glad to meet you so I can fulfil
+The Master: Greetings, Ms. Mandrake! I am glad to meet you so I can fulfil
 my destiny.
 
 Selina: I presume you are…
@@ -1327,7 +1327,7 @@ Selina: Well, even though I think you demons’ lot are complete freakshows, you
 seem amusing and interesting, so I have no intention of slaying you as long
 as you remain harmless to me physically.
 
-The Master: Fair enough. [Starts walking with her.] So, Miss Mandrake, how
+The Master: Fair enough. [Starts walking with her.] So, Ms. Mandrake, how
 have you been doing lately?
 
 Selina: Oh, you know - the usual: school, leisure, fixing computer problems,
