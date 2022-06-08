@@ -148,7 +148,7 @@ a glass of juice. She drinks some of it.]
 Selina: What a day!
 
 [After a few more arrangements, she goes to a desktop computer, turns on the
-screen, moves the mouse. It’s a screen of Linux with Pidgin running. Selina
+screen, and moves the mouse. It’s a screen of Linux with <a href="https://pidgin.im/">Pidgin</a> (a chat client) running. Selina
 scrolls the Pidgin contact list a little, finds someone called
 “Mosheh Ben-Amram” and double clicks his icon. A window pops up.]
 
@@ -1697,9 +1697,9 @@ Selina: Yes, yes, OK. So which life are we talking about?
 
 <s id="kate-tells-her-story" title="Kate tells her story">
 
-<s id="kate-s-early-life" title="Early Life">
+<s id="kate-s-early-life" title="Kate’s Early Life">
 
-Kate: My first. Well, I was actually born Kate Hampshire, a young Anglican
+Kate: My first. Well, I was actually born Kate Hampshire, an Anglican
 baby born to English parents on French soil. I grew up among French children,
 who welcomed me as their own, but when my parents and I returned back to
 England when I was 5 years old, I was ridiculed for my French, and so
@@ -1963,7 +1963,7 @@ Dumas: Please, tell me all about it.
 
 <s id="dumas-advice" title="Dumas’ Advice">
 
-[Later on this evening.]
+[Later on that evening.]
 
 Kate: [Drunk] M. Dumas, you treated me really well today, but now what do
 we do… about… about… about the people who are asking me to slay them.
