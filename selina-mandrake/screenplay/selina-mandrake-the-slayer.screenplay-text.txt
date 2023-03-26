@@ -1889,8 +1889,8 @@ And travelled to
 <a href="http://en.wikipedia.org/wiki/Portsmouth">Portsmouth</a>
 where Lord Buckingham was about to leave.
 
-[Showing the cabin of Lord Buckingham. He is standing there. Adam enters with
-a gun and points it at Lord Buckingham.]
+[Showing the cabin of Lord Buckingham. He is standing there. Adam,
+Lord Canterson’s soldier, enters with a rifle and points it at Lord Buckingham.]
 
 Adam: Greetings, your highness! I can shoot you now, but I won’t.
 
@@ -2133,7 +2133,7 @@ advantages, and made sure to pass many important messages.
 
 +++: On the other hand, Cuneiform had originally been created for Sumerian,
 which many considered as a holy and mystical language that must be kept alive,
-and was adopted for Akkadian and its essentially similar variations of
+and was adopted for Akkadian and its essentially identical variations of
 Babylonian and Assyrian, which reflected an old and no longer usable Semitic
 dialect, that most people on the street did not know or liked.
 
