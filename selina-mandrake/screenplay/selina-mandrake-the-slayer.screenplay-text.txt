@@ -1284,7 +1284,7 @@ such a mess, then I’m going to be dead.
 
 [The Guide enters through the door.]
 
-The Guide: CONGRATULATIONS, MAGEIA, YOU HAVE SLAIN ALL THESE VAMPIRES.
+The Guide: CONGRATULATIONS, MAGEIA, ALL THESE VAMPIRES HAVE BEEN SLAIN BY YOU.
 
 Selina: Yes, and it made this hall a big mess.
 
