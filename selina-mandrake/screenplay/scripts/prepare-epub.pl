@@ -43,13 +43,9 @@ my $gfx = $obj->gfx;
                 publisher => 'http://www.shlomifish.org/',
                 language  => 'en-GB',
                 subjects  => [
-                    'FICTION/Horror',
-                    'FICTION/Humorous',
-                    'FICTION/Masups',
-                    ' FICTION/Science Fiction/General',
-                    'HUMOR/Topic/Religion',
-                    'HUMOR/Form/Parodies',
-                    'Vampires',
+                    'FICTION/Humorous',                'FICTION/Mashups',
+                    'FICTION/Science Fiction/General', 'HUMOR/Topic/Religion',
+                    'HUMOR/Form/Parodies',             'Vampires',
                     'Buffy',
                 ],
                 identifier => {
